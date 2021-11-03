@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import "~bootstrap/scss/bootstrap";
 @import "../components/layout/layout.scss";
+@import "../components/inicio/inicio.scss";
+@import "../components/formulario1/formulario1.scss";
+
 html,
 body {
   padding: 0;
   margin: 0;
+}
+.btn-primary{
+  background: #014691 !important;
 }
